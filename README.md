@@ -17,4 +17,4 @@
 <p>• <code>nano /etc/bash.bashrc</code></p>
 <p>• Pastekan file yang telah di copy pada bagian paling bawah kemudian save dengan menekan tombol <code>ctrl+x</code> tekan <code>y</code> tekan <code>enter</code> Tutup terminal dan buka kembali terminal.</p>
 <p>• Akan menghasilkan output seperti berikut<a href="https://github.com/rofisikunyuk/Figlet/blob/main/Example/Output.txt"> klik disini</a>.</p>
-<img src="https://user-images.githubusercontent.com/99116266/152734306-7c28575c-0650-4655-8f12-b11cc105e142.jpg" width="100" height="25">
+<img src="https://user-images.githubusercontent.com/99116266/152734306-7c28575c-0650-4655-8f12-b11cc105e142.jpg" width="250" height="100">

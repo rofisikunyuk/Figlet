@@ -2,13 +2,13 @@
 <h3>Figlet</h3>
 <p><a href="http://www.figlet.org/">Figlet</a> adalah utilitas baris perintah sederhana untuk membuat spanduk teks ASCII atau huruf besar di luar teks biasa.</p>
 <h3>Cara menginstall Figlet</h3>
-<p>Update Debian</p>
+<p>1. Update Debian</p>
 <p><code>apt-get update</code></p>
 <p><code>apt-get upgrade</code></p>
-<p>Install Figlet</p>
+<p>2. Install Figlet</p>
 <p><code>apt-get install figlet</code></p>
 <h3>Memperindah tampilan terminal menggunakan Figlet (menampilkan saja)</h3>
-<p><code>figlet [teks kamu]</code></p>
+<p>3. <code>figlet [teks kamu]</code></p>
 <p>Contoh.</p>
 <p><code>figlet rofi</code></p>
 <p>Akan menghasilkan output seperti berikut.</p>

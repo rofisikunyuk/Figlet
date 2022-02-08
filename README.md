@@ -7,16 +7,15 @@
 <p><code>apt-get upgrade</code></p>
 <p>2. Install Figlet</p>
 <p><code>apt-get install figlet</code></p>
-<h3>Memperindah tampilan terminal menggunakan Figlet (menampilkan saja)</h3>
-<p>3. Menggunakan Figlet<p>
+<p>3. Memperindah tampilan terminal menggunakan Figlet (menampilkan saja)</p>
 <p><code>figlet [teks kamu]</code></p>
 <p>Contoh.</p>
 <p><code>figlet rofi</code></p>
 <p>Akan menghasilkan output seperti berikut.</p>
 <img src="https://github.com/rofisikunyuk/Figlet/blob/main/Screenshot/20220206_170522.jpg" width="250" height="150">
-<h3>Memperindah tampilan terminal menggunakan Figlet (permanen)</h3>
-<p>4. Copy file berikut (contoh) <a href="https://github.com/rofisikunyuk/Figlet/blob/main/Example/Permanen.txt">klik disini</a>.</p>
-<p>5. <code>nano /etc/bash.bashrc</code></p>
-<p>6. Pastekan file yang telah di copy pada bagian paling bawah kemudian save dengan menekan tombol <code>ctrl+x</code> tekan <code>y</code> tekan <code>enter</code> Tutup terminal dan buka kembali terminal.</p>
+<p>4.Memperindah tampilan terminal menggunakan Figlet (permanen)</p>
+<p>5. Copy file berikut (contoh) <a href="https://github.com/rofisikunyuk/Figlet/blob/main/Example/Permanen.txt">klik disini</a>.</p>
+<p>6. <code>nano /etc/bash.bashrc</code></p>
+<p>7. Pastekan file yang telah di copy pada bagian paling bawah kemudian save dengan menekan tombol <code>ctrl+x</code> tekan <code>y</code> tekan <code>enter</code> Tutup terminal dan buka kembali terminal.</p>
 <p>Akan menghasilkan output seperti berikut.</p>
 <img src="https://github.com/rofisikunyuk/Figlet/blob/main/Screenshot/20220206_170522.jpg" width="250" height="150">

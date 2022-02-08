@@ -14,8 +14,8 @@
 <p>Akan menghasilkan output seperti berikut.</p>
 <img src="https://github.com/rofisikunyuk/Figlet/blob/main/Screenshot/20220206_170522.jpg" width="250" height="150">
 <h3>Memperindah tampilan terminal menggunakan Figlet (permanen)</h3>
-<p>Copy file berikut (contoh) <a href="https://github.com/rofisikunyuk/Figlet/blob/main/Example/Permanen.txt">klik disini</a>.</p>
-<p><code>nano /etc/bash.bashrc</code></p>
-<p>Pastekan file yang telah di copy pada bagian paling bawah kemudian save dengan menekan tombol <code>ctrl+x</code> tekan <code>y</code> tekan <code>enter</code> Tutup terminal dan buka kembali terminal.</p>
+<p>4. Copy file berikut (contoh) <a href="https://github.com/rofisikunyuk/Figlet/blob/main/Example/Permanen.txt">klik disini</a>.</p>
+<p>5. <code>nano /etc/bash.bashrc</code></p>
+<p>6. Pastekan file yang telah di copy pada bagian paling bawah kemudian save dengan menekan tombol <code>ctrl+x</code> tekan <code>y</code> tekan <code>enter</code> Tutup terminal dan buka kembali terminal.</p>
 <p>Akan menghasilkan output seperti berikut.</p>
 <img src="https://github.com/rofisikunyuk/Figlet/blob/main/Screenshot/20220206_170522.jpg" width="250" height="150">

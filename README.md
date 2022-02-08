@@ -8,7 +8,8 @@
 <p>2. Install Figlet</p>
 <p><code>apt-get install figlet</code></p>
 <h3>Memperindah tampilan terminal menggunakan Figlet (menampilkan saja)</h3>
-<p>3. <code>figlet [teks kamu]</code></p>
+<p>3. Menggunakan Figlet<p>
+<p><code>figlet [teks kamu]</code></p>
 <p>Contoh.</p>
 <p><code>figlet rofi</code></p>
 <p>Akan menghasilkan output seperti berikut.</p>
